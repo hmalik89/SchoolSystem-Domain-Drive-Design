@@ -1,0 +1,15 @@
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\bin\Debug\net7.0\Infrastrucutre.deps.json
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\bin\Debug\net7.0\Infrastrucutre.dll
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\bin\Debug\net7.0\Infrastrucutre.pdb
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\bin\Debug\net7.0\Domain.dll
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\bin\Debug\net7.0\Domain.pdb
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.csproj.AssemblyReference.cache
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.AssemblyInfoInputs.cache
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.AssemblyInfo.cs
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.csproj.CoreCompileInputs.cache
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.csproj.CopyComplete
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.dll
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\refint\Infrastrucutre.dll
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\Infrastrucutre.pdb
+C:\Users\mhaseeb.malik\source\repos\SchoolSystem\Infrastrucutre\obj\Debug\net7.0\ref\Infrastrucutre.dll

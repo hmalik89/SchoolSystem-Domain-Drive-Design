@@ -1,5 +1,6 @@
 ﻿using SchoolSystem.WebApi.Authentication;
 using Microsoft.AspNetCore.Mvc;
+using Domain.Entities;
 
 namespace SchoolSystem.Controllers
 {
@@ -13,7 +14,7 @@ namespace SchoolSystem.Controllers
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginRequest request)
+        public IActionResult Login([FromBody] User request)
         {
             if (_authenticationService.AuthenticateUser(request.Username, request.Password))
             {
@@ -26,11 +27,7 @@ namespace SchoolSystem.Controllers
 
     }
 
-    public class LoginRequest
-    {
-        public string Username { get; set; }
-        public string Password { get; set; }
-    }
+    
 
 
 }

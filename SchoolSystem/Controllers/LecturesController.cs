@@ -31,12 +31,5 @@ namespace SchoolSystem.Controllers
             var reponse = await _mediator.Send(query, cancellationToken);
             return reponse;
         }
-
-        //[Authorize]
-        //[HttpGet]
-        //public async Task<IEnumerable<Lecture>> GetLecturesForSubject(int subjectId, CancellationToken cancellationToken)
-        //{
-        //    return Lecture
-        //}
     }
 }
